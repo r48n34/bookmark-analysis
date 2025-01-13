@@ -11,6 +11,8 @@ A simple Google Chrome extension for analysis your bookmark records.
 
 ## 🛠️ Features  
 1. Easy to use, click and view.
+2. View frequency and year added graph.
+3. Group by domain with search.
 
 ## 🔬 Plasmo
 
