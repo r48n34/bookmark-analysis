@@ -1,6 +1,6 @@
 # Bookmark analysis - Google extentions
 
-Bookmark analysis - Google extentions
+🔖 Bookmark analysis - Google extentions
 
 ## 🔧 Installation
 TBC
