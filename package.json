@@ -15,7 +15,6 @@
     "@mantine/core": "^7.15.2",
     "@mantine/hooks": "^7.15.2",
     "@mantine/modals": "^7.15.3",
-    "@plasmohq/storage": "^1.6.1",
     "@tabler/icons-react": "^3.27.1",
     "dayjs": "^1.11.13",
     "markdown-to-jsx": "^7.7.3",
